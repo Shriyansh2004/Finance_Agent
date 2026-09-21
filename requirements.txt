@@ -1,0 +1,10 @@
+phidata # For data management and processing
+python-dotenv # For environment variable management
+yfinance # For stock data
+packaging # For version handling
+duckduckgo-search # For web searches
+fastapi # For building APIs
+python-multipart # Required by FastAPI form endpoints
+uvicorn # For running FastAPI applications
+groq # For Groq API integration
+openai # For OpenAI API integration
